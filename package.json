@@ -1,0 +1,22 @@
+{
+  "name": "node-app",
+  "version": "1.0.0",
+  "description": "Node App Deployment Tutorial (Traversy)",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "keywords": [
+    "Node",
+    "Application",
+    "Deployment",
+    "Traversy",
+    "Media",
+    "DigitalOcean"
+  ],
+  "author": "Bjarni Kristjansson",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
